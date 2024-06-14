@@ -20,7 +20,7 @@ export default defineSchema({
     views: v.number()
   })
     .searchIndex('search_author', { searchField: 'author' })
-    .searchIndex('search_tile', { searchField: 'podcastTitle' })
+    .searchIndex('search_title', { searchField: 'podcastTitle' })
     .searchIndex('search_body', { searchField: 'podcastDescription' }),
   users: defineTable({
     email: v.string(),
