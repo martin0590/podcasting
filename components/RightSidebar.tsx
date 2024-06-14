@@ -31,7 +31,7 @@ const RightSidebar = () => {
           <div className='flex w-full items-center justify-between'>
             <h1 className='text-16 truncate font-semibold text-white-1'>{user?.firstName} {user?.lastName}</h1>
         <Image 
-          src={'/icons/right-Arrow.svg'}
+          src={'/icons/right-arrow.svg'}
           alt='arrow icon'
           width={24}
           height={24}
