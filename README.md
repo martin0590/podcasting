@@ -1,6 +1,6 @@
 ## 📋 <a name="table">Tabla de contenidos</a>
 
-1. 🤖 [Introducción](#introduction)
+1. 🤖 [Introducción](#introducción)
 2. ⚙️ [Tech Stack](#tech-stack)
 
 ## <a name="introducción">🤖 Introducción</a>
